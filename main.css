@@ -32,7 +32,8 @@
 
 .sidebarContent
 {
-  display:inline;
+  display:inline-block;
+  margin-left:5%;
 }
 
 hr
