@@ -1,1 +1,5 @@
-
+.mainContainer
+{
+  display:inline-block;
+  background:#555555;
+}
