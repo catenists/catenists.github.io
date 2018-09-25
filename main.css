@@ -18,15 +18,23 @@
   display:flex;
   padding-top:1%;
 }
+
 .mainContent
 {
    width:50%;
 }
-.sidebar
+
+.sidebarWrapper
 {
     background:#888888;
     width:50%;
 }
+
+.sidebarContent
+{
+  display:inline;
+}
+
 hr
 {
   display:block;
