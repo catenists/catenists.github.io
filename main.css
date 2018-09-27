@@ -1,10 +1,3 @@
-.header img
-{
- 
-  width:10%;
-  float:left;
-
-}
 
 .mainContainer
 {
@@ -20,6 +13,19 @@
 
  
 }
+
+.header img
+{
+ 
+  width:10%;
+  float:left;
+
+}
+.title
+{
+ display:flex;
+}
+
 
 .body
 {
