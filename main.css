@@ -55,6 +55,10 @@
 
 .navbar button:hover {opacity: 1}
 
+.navbar .active {
+  background:#404077;
+}
+
 .body
 {
   display:flex;
