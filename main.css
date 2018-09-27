@@ -28,21 +28,37 @@
 }
 
 
+.navbar
+{
+  margin-left:4%;
+  margin-top:1%;
+}
+.navbar button
+{
+ 
+ 
+  border-style:solid;
+  border-color:white;
+  border-width:4px;
+  
+  margin:-4px;
+ 
+  background:#3a3a5b;
+  padding-top:2%;
+  padding-bottom:2%;
+  color:white;
+  width:33%;
+}
+
+
+
 .body
 {
   display:flex;
   padding-top:1%;
 }
 
-.infobar li
-{
-  flOAT:LEFT;
-  display:block;
-  margin-left:2%;
-  margin-right:2%;
-  padding-bottom:1%;
-  color:white;
-}
+
 
 .mainContent
 {
