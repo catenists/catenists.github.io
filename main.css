@@ -49,9 +49,11 @@
   padding-bottom:2%;
   color:white;
   width:33%;
+  opacity: 0.8;
+  transition: 0.3s;
 }
 
-
+.navbar button:hover {opacity: 1}
 
 .body
 {
