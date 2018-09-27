@@ -54,12 +54,16 @@
   font-size:70%;
 }
 
-.navbar button:hover {opacity: 1}
+.navbar button:hover 
+{
+  opacity: 1;
+   font-size:90%;
+  padding-top:1.7%;
+}
 
 .navbar .active {
   background:#404077;
-  font-size:90%;
-  padding-top:1.7%;
+
 }
 
 .body
