@@ -49,7 +49,7 @@
   color:white;
   width:33%;
   opacity: 0.8;
-  transition: 0.3s;
+  transition: 1s;
   font-size:70%;
 }
 
@@ -104,19 +104,22 @@ h1
 {
   font-size:250%;
   margin-bottom:-2px;
-  font-family:;
+  font-family:Trebuchet MS;
   color:white;
 }
 h2
 {
   margin-bottom:-2px;
   color:white;
+  font-family:Trebuchet MS;
+	
 }
 
 h3
 {
   margin-bottom:-2px;
   color:white;
+  font-family:Trebuchet MS;
 }
 
 hr
